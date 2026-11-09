@@ -1,1 +1,1 @@
-# CGT-215-Lab-08-zplacek
+A duck hunter game where player shoots 5 arrows at ducks to earn points.
